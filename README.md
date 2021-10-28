@@ -1,1 +1,4 @@
-# pyspark_sentiment_analysis
+# PySpark Sentiment Analysis
+
+Vectorizer: HashTFIDF
+Classifier: LogisticRegression
